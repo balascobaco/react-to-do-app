@@ -65,6 +65,6 @@ Obrigado por experimentar o React To-Do App! Espero que esta aplicação simples
 
 Este projeto foi criado por Gabriel Balasco.
 
-https://github.com/balascobaco
-https://twitter.com/balascobaco
-https://instagram.com/balascobaco
+[Github](https://github.com/balascobaco)
+[Twitter](https://twitter.com/balascobaco)
+[Instagram](https://instagram.com/balascobaco)
